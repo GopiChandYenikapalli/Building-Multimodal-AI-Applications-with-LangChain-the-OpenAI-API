@@ -1,0 +1,1 @@
+Generative AI makes it easy to move beyond simply working with text: other media like audio and images can now be easily analyzed or generated. In this project, you'll learn how to transcribe YouTube video content with the Whisper speech-to-text AI and then use GPT to ask questions about the content.
